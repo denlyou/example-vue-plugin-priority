@@ -1,4 +1,4 @@
-# ex-plugin
+# example-vue-plugin-priority
 
 - 뷰 플러그인 프로퍼티 중복시 처리되는 우선 순위 예제
 
